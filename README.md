@@ -7,4 +7,4 @@ Resources for energy balance model workshop
 - matplotlib
 
 Note necessary, but can be useful
-  - ARTS(radiativetransfer.org) for spectral line calculations
+  - [ARTS](radiativetransfer.org) for spectral line calculations
