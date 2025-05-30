@@ -1,0 +1,7 @@
+Some possible ways to experiment/extend the model
+
+1. Add shortwave absorption
+2. Account for the atmospheric lapse rate, i.e., RCE
+3. Add clouds: One could add a cloud fraction parameter to incorporate clouds. Clouds could be modelled as a gray body at a fixed temperature in addition to the gray clersky atmosphere.
+4. Calculate meridional temperature profiles: Make meridonal/zonal energy balance models by considering the effcetive area for incoming solar and outgoing thermal emissions. 
+5. Extraplanetory affairs: chcek how the energy balances would look like for a different star or planet. How would it look when the Sun turns into a red giant?
